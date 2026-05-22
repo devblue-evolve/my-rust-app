@@ -1,0 +1,215 @@
+cargo:rerun-if-env-changed=CC_FORCE_DISABLE
+CC_FORCE_DISABLE = None
+cargo:rerun-if-env-changed=VCINSTALLDIR
+VCINSTALLDIR = None
+cargo:rerun-if-env-changed=VSTEL_MSBuildProjectFullPath
+VSTEL_MSBuildProjectFullPath = None
+cargo:rerun-if-env-changed=VCToolsVersion
+VCToolsVersion = None
+cargo:rerun-if-env-changed=VSCMD_ARG_VCVARS_SPECTRE
+VSCMD_ARG_VCVARS_SPECTRE = None
+cargo:rerun-if-env-changed=WindowsSdkDir
+WindowsSdkDir = None
+cargo:rerun-if-env-changed=WindowsSDKVersion
+WindowsSDKVersion = None
+cargo:rerun-if-env-changed=LIB
+LIB = None
+PATH = Some(C:\Startup\Projects\chat\rust\my-rust-app\target\release;C:\Startup\Projects\chat\rust\my-rust-app\target\release\deps;C:\Users\chcol\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib\rustlib\x86_64-pc-windows-msvc\lib;c:\Users\chcol\AppData\Roaming\Code\User\globalStorage\github.copilot-chat\debugCommand;c:\Users\chcol\AppData\Roaming\Code\User\globalStorage\github.copilot-chat\copilotCli;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\170\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Softwares\Git\Git\cmd;C:\Program Files\nodejs\;C:\Users\chcol\.cargo\bin;C:\Users\chcol\AppData\Local\Programs\Python\Launcher\;C:\Users\chcol\AppData\Local\Microsoft\WindowsApps;C:\Softwares\Oracle\instantclient_23_9;C:\Softwares\Microsoft VS Code\Microsoft VS Code\bin;C:\Users\chcol\.dotnet\tools;C:\Users\chcol\AppData\Local\Programs\Ollama;C:\Softwares\WindSurf\Windsurf\bin;C:\Users\chcol\AppData\Roaming\npm;C:\Softwares\Antigravity\bin;C:\Users\chcol\.rustup\toolchains\stable-x86_64-pc-windows-msvc\bin)
+cargo:rerun-if-env-changed=INCLUDE
+INCLUDE = None
+cargo:rerun-if-env-changed=VCToolsVersion
+VCToolsVersion = None
+cargo:rerun-if-env-changed=VSCMD_ARG_VCVARS_SPECTRE
+VSCMD_ARG_VCVARS_SPECTRE = None
+cargo:rerun-if-env-changed=WindowsSdkDir
+WindowsSdkDir = None
+cargo:rerun-if-env-changed=WindowsSDKVersion
+WindowsSDKVersion = None
+cargo:rerun-if-env-changed=LIB
+LIB = None
+PATH = Some(C:\Startup\Projects\chat\rust\my-rust-app\target\release;C:\Startup\Projects\chat\rust\my-rust-app\target\release\deps;C:\Users\chcol\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib\rustlib\x86_64-pc-windows-msvc\lib;c:\Users\chcol\AppData\Roaming\Code\User\globalStorage\github.copilot-chat\debugCommand;c:\Users\chcol\AppData\Roaming\Code\User\globalStorage\github.copilot-chat\copilotCli;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\170\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Softwares\Git\Git\cmd;C:\Program Files\nodejs\;C:\Users\chcol\.cargo\bin;C:\Users\chcol\AppData\Local\Programs\Python\Launcher\;C:\Users\chcol\AppData\Local\Microsoft\WindowsApps;C:\Softwares\Oracle\instantclient_23_9;C:\Softwares\Microsoft VS Code\Microsoft VS Code\bin;C:\Users\chcol\.dotnet\tools;C:\Users\chcol\AppData\Local\Programs\Ollama;C:\Softwares\WindSurf\Windsurf\bin;C:\Users\chcol\AppData\Roaming\npm;C:\Softwares\Antigravity\bin;C:\Users\chcol\.rustup\toolchains\stable-x86_64-pc-windows-msvc\bin)
+cargo:rerun-if-env-changed=INCLUDE
+INCLUDE = None
+cargo:rerun-if-env-changed=CC_x86_64-pc-windows-msvc
+CC_x86_64-pc-windows-msvc = None
+cargo:rerun-if-env-changed=CC_x86_64_pc_windows_msvc
+CC_x86_64_pc_windows_msvc = None
+cargo:rerun-if-env-changed=HOST_CC
+HOST_CC = None
+cargo:rerun-if-env-changed=CC
+CC = None
+cargo:rerun-if-env-changed=CRATE_CC_NO_DEFAULTS
+CRATE_CC_NO_DEFAULTS = None
+cargo:rerun-if-env-changed=CFLAGS
+CFLAGS = None
+cargo:rerun-if-env-changed=HOST_CFLAGS
+HOST_CFLAGS = None
+cargo:rerun-if-env-changed=CFLAGS_x86_64_pc_windows_msvc
+CFLAGS_x86_64_pc_windows_msvc = None
+cargo:rerun-if-env-changed=CFLAGS_x86_64-pc-windows-msvc
+CFLAGS_x86_64-pc-windows-msvc = None
+cargo:rerun-if-env-changed=CC_ENABLE_DEBUG_OUTPUT
+cargo:rerun-if-env-changed=CRATE_CC_NO_DEFAULTS
+CRATE_CC_NO_DEFAULTS = None
+cargo:rerun-if-env-changed=CFLAGS
+CFLAGS = None
+cargo:rerun-if-env-changed=HOST_CFLAGS
+HOST_CFLAGS = None
+cargo:rerun-if-env-changed=CFLAGS_x86_64_pc_windows_msvc
+CFLAGS_x86_64_pc_windows_msvc = None
+cargo:rerun-if-env-changed=CFLAGS_x86_64-pc-windows-msvc
+CFLAGS_x86_64-pc-windows-msvc = None
+cargo:rerun-if-env-changed=CC_ENABLE_DEBUG_OUTPUT
+dpi.c
+odpi/include\dpi.h(803): warning C4201: extensÆo nÆo padrÆo usada: struct/union sem nome
+odpi/include\dpi.h(807): warning C4201: extensÆo nÆo padrÆo usada: struct/union sem nome
+odpi/include\dpi.h(811): warning C4201: extensÆo nÆo padrÆo usada: struct/union sem nome
+C:\Users\chcol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\odpic-sys-0.1.1\odpi\embed\../src/dpiOci.c(696): warning C4100: 'unused': parƒmetro nÆoÿreferenciado
+C:\Users\chcol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\odpic-sys-0.1.1\odpi\embed\../src/dpiOci.c(1520): warning C4100: 'unused': parƒmetro nÆoÿreferenciado
+C:\Users\chcol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\odpic-sys-0.1.1\odpi\embed\../src/dpiOci.c(1856): warning C4267: 'fun‡Æo': conversÆo de 'size_t' para 'DWORD', poss¡vel perda de dados
+C:\Users\chcol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\odpic-sys-0.1.1\odpi\embed\../src/dpiOci.c(2262): warning C4152: extensÆo nÆo padrÆo, conversÆo de ponteiro de fun‡Æo/dados em expressÆo
+C:\Users\chcol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\odpic-sys-0.1.1\odpi\embed\../src/dpiOci.c(3033): warning C4100: 'unused': parƒmetro nÆoÿreferenciado
+C:\Users\chcol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\odpic-sys-0.1.1\odpi\embed\../src/dpiPool.c(83): warning C4100: 'mode': parƒmetro nÆoÿreferenciado
+C:\Users\chcol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\odpic-sys-0.1.1\odpi\embed\../src/dpiRowid.c(58): warning C4100: 'error': parƒmetro nÆoÿreferenciado
+C:\Users\chcol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\odpic-sys-0.1.1\odpi\embed\../src/dpiSodaCollCursor.c(123): warning C4100: 'flags': parƒmetro nÆoÿreferenciado
+C:\Users\chcol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\odpic-sys-0.1.1\odpi\embed\../src/dpiSodaDb.c(222): warning C4100: 'flags': parƒmetro nÆoÿreferenciado
+C:\Users\chcol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\odpic-sys-0.1.1\odpi\embed\../src/dpiSodaDb.c(250): warning C4100: 'flags': parƒmetro nÆoÿreferenciado
+C:\Users\chcol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\odpic-sys-0.1.1\odpi\embed\../src/dpiSodaDocCursor.c(123): warning C4100: 'flags': parƒmetro nÆoÿreferenciado
+C:\Users\chcol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\odpic-sys-0.1.1\odpi\embed\../src/dpiSubscr.c(49): warning C4100: 'mode': parƒmetro nÆoÿreferenciado
+C:\Users\chcol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\odpic-sys-0.1.1\odpi\embed\../src/dpiSubscr.c(48): warning C4100: 'payloadLength': parƒmetro nÆoÿreferenciado
+C:\Users\chcol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\odpic-sys-0.1.1\odpi\embed\../src/dpiSubscr.c(48): warning C4100: 'payload': parƒmetro nÆoÿreferenciado
+C:\Users\chcol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\odpic-sys-0.1.1\odpi\embed\../src/dpiSubscr.c(47): warning C4100: 'handle': parƒmetro nÆoÿreferenciado
+C:\Users\chcol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\odpic-sys-0.1.1\odpi\embed\../src/dpiVar.c(364): warning C4100: 'piecep': parƒmetro nÆoÿreferenciado
+C:\Users\chcol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\odpic-sys-0.1.1\odpi\embed\../src/dpiVar.c(363): warning C4100: 'defnp': parƒmetro nÆoÿreferenciado
+C:\Users\chcol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\odpic-sys-0.1.1\odpi\embed\../src/dpiVar.c(861): warning C4100: 'index': parƒmetro nÆoÿreferenciado
+C:\Users\chcol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\odpic-sys-0.1.1\odpi\embed\../src/dpiVar.c(860): warning C4100: 'bindp': parƒmetro nÆoÿreferenciado
+C:\Users\chcol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\odpic-sys-0.1.1\odpi\src\dpiDebug.c(111) : warning C4701: vari vel local possivelmente nÆo inicializada 'time' usada
+C:\Users\chcol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\odpic-sys-0.1.1\odpi\src\dpiSodaColl.c(172) : warning C4701: vari vel local possivelmente nÆo inicializada 'returnHandleType' usada
+C:\Users\chcol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\odpic-sys-0.1.1\odpi\src\dpiConn.c(1417) : warning C4701: vari vel local possivelmente nÆo inicializada 'dateValue' usada
+C:\Users\chcol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\odpic-sys-0.1.1\odpi\src\dpiSodaDb.c(287) : warning C4701: vari vel local possivelmente nÆo inicializada 'jsonHandle' usada
+C:\Users\chcol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\odpic-sys-0.1.1\odpi\src\dpiSodaDb.c(287) : warning C4703: vari vel de ponteiro local potencialmente nÆo inicializada 'jsonHandle' usada
+cargo:rerun-if-env-changed=AR_x86_64-pc-windows-msvc
+AR_x86_64-pc-windows-msvc = None
+cargo:rerun-if-env-changed=AR_x86_64_pc_windows_msvc
+AR_x86_64_pc_windows_msvc = None
+cargo:rerun-if-env-changed=HOST_AR
+HOST_AR = None
+cargo:rerun-if-env-changed=AR
+AR = None
+cargo:rerun-if-env-changed=VCINSTALLDIR
+VCINSTALLDIR = None
+cargo:rerun-if-env-changed=VSTEL_MSBuildProjectFullPath
+VSTEL_MSBuildProjectFullPath = None
+cargo:rerun-if-env-changed=VCToolsVersion
+VCToolsVersion = None
+cargo:rerun-if-env-changed=VSCMD_ARG_VCVARS_SPECTRE
+VSCMD_ARG_VCVARS_SPECTRE = None
+cargo:rerun-if-env-changed=WindowsSdkDir
+WindowsSdkDir = None
+cargo:rerun-if-env-changed=WindowsSDKVersion
+WindowsSDKVersion = None
+cargo:rerun-if-env-changed=LIB
+LIB = None
+PATH = Some(C:\Startup\Projects\chat\rust\my-rust-app\target\release;C:\Startup\Projects\chat\rust\my-rust-app\target\release\deps;C:\Users\chcol\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib\rustlib\x86_64-pc-windows-msvc\lib;c:\Users\chcol\AppData\Roaming\Code\User\globalStorage\github.copilot-chat\debugCommand;c:\Users\chcol\AppData\Roaming\Code\User\globalStorage\github.copilot-chat\copilotCli;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\170\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Softwares\Git\Git\cmd;C:\Program Files\nodejs\;C:\Users\chcol\.cargo\bin;C:\Users\chcol\AppData\Local\Programs\Python\Launcher\;C:\Users\chcol\AppData\Local\Microsoft\WindowsApps;C:\Softwares\Oracle\instantclient_23_9;C:\Softwares\Microsoft VS Code\Microsoft VS Code\bin;C:\Users\chcol\.dotnet\tools;C:\Users\chcol\AppData\Local\Programs\Ollama;C:\Softwares\WindSurf\Windsurf\bin;C:\Users\chcol\AppData\Roaming\npm;C:\Softwares\Antigravity\bin;C:\Users\chcol\.rustup\toolchains\stable-x86_64-pc-windows-msvc\bin)
+cargo:rerun-if-env-changed=INCLUDE
+INCLUDE = None
+cargo:rerun-if-env-changed=VCToolsVersion
+VCToolsVersion = None
+cargo:rerun-if-env-changed=VSCMD_ARG_VCVARS_SPECTRE
+VSCMD_ARG_VCVARS_SPECTRE = None
+cargo:rerun-if-env-changed=WindowsSdkDir
+WindowsSdkDir = None
+cargo:rerun-if-env-changed=WindowsSDKVersion
+WindowsSDKVersion = None
+cargo:rerun-if-env-changed=LIB
+LIB = None
+PATH = Some(C:\Startup\Projects\chat\rust\my-rust-app\target\release;C:\Startup\Projects\chat\rust\my-rust-app\target\release\deps;C:\Users\chcol\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib\rustlib\x86_64-pc-windows-msvc\lib;c:\Users\chcol\AppData\Roaming\Code\User\globalStorage\github.copilot-chat\debugCommand;c:\Users\chcol\AppData\Roaming\Code\User\globalStorage\github.copilot-chat\copilotCli;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\170\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Softwares\Git\Git\cmd;C:\Program Files\nodejs\;C:\Users\chcol\.cargo\bin;C:\Users\chcol\AppData\Local\Programs\Python\Launcher\;C:\Users\chcol\AppData\Local\Microsoft\WindowsApps;C:\Softwares\Oracle\instantclient_23_9;C:\Softwares\Microsoft VS Code\Microsoft VS Code\bin;C:\Users\chcol\.dotnet\tools;C:\Users\chcol\AppData\Local\Programs\Ollama;C:\Softwares\WindSurf\Windsurf\bin;C:\Users\chcol\AppData\Roaming\npm;C:\Softwares\Antigravity\bin;C:\Users\chcol\.rustup\toolchains\stable-x86_64-pc-windows-msvc\bin)
+cargo:rerun-if-env-changed=INCLUDE
+INCLUDE = None
+cargo:rerun-if-env-changed=CC_x86_64-pc-windows-msvc
+CC_x86_64-pc-windows-msvc = None
+cargo:rerun-if-env-changed=CC_x86_64_pc_windows_msvc
+CC_x86_64_pc_windows_msvc = None
+cargo:rerun-if-env-changed=HOST_CC
+HOST_CC = None
+cargo:rerun-if-env-changed=CC
+CC = None
+cargo:rerun-if-env-changed=VCINSTALLDIR
+VCINSTALLDIR = None
+cargo:rerun-if-env-changed=VSTEL_MSBuildProjectFullPath
+VSTEL_MSBuildProjectFullPath = None
+cargo:rerun-if-env-changed=VCToolsVersion
+VCToolsVersion = None
+cargo:rerun-if-env-changed=VSCMD_ARG_VCVARS_SPECTRE
+VSCMD_ARG_VCVARS_SPECTRE = None
+cargo:rerun-if-env-changed=WindowsSdkDir
+WindowsSdkDir = None
+cargo:rerun-if-env-changed=WindowsSDKVersion
+WindowsSDKVersion = None
+cargo:rerun-if-env-changed=LIB
+LIB = None
+PATH = Some(C:\Startup\Projects\chat\rust\my-rust-app\target\release;C:\Startup\Projects\chat\rust\my-rust-app\target\release\deps;C:\Users\chcol\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib\rustlib\x86_64-pc-windows-msvc\lib;c:\Users\chcol\AppData\Roaming\Code\User\globalStorage\github.copilot-chat\debugCommand;c:\Users\chcol\AppData\Roaming\Code\User\globalStorage\github.copilot-chat\copilotCli;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\170\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Softwares\Git\Git\cmd;C:\Program Files\nodejs\;C:\Users\chcol\.cargo\bin;C:\Users\chcol\AppData\Local\Programs\Python\Launcher\;C:\Users\chcol\AppData\Local\Microsoft\WindowsApps;C:\Softwares\Oracle\instantclient_23_9;C:\Softwares\Microsoft VS Code\Microsoft VS Code\bin;C:\Users\chcol\.dotnet\tools;C:\Users\chcol\AppData\Local\Programs\Ollama;C:\Softwares\WindSurf\Windsurf\bin;C:\Users\chcol\AppData\Roaming\npm;C:\Softwares\Antigravity\bin;C:\Users\chcol\.rustup\toolchains\stable-x86_64-pc-windows-msvc\bin)
+cargo:rerun-if-env-changed=INCLUDE
+INCLUDE = None
+cargo:rerun-if-env-changed=VCToolsVersion
+VCToolsVersion = None
+cargo:rerun-if-env-changed=VSCMD_ARG_VCVARS_SPECTRE
+VSCMD_ARG_VCVARS_SPECTRE = None
+cargo:rerun-if-env-changed=WindowsSdkDir
+WindowsSdkDir = None
+cargo:rerun-if-env-changed=WindowsSDKVersion
+WindowsSDKVersion = None
+cargo:rerun-if-env-changed=LIB
+LIB = None
+PATH = Some(C:\Startup\Projects\chat\rust\my-rust-app\target\release;C:\Startup\Projects\chat\rust\my-rust-app\target\release\deps;C:\Users\chcol\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib\rustlib\x86_64-pc-windows-msvc\lib;c:\Users\chcol\AppData\Roaming\Code\User\globalStorage\github.copilot-chat\debugCommand;c:\Users\chcol\AppData\Roaming\Code\User\globalStorage\github.copilot-chat\copilotCli;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\170\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Softwares\Git\Git\cmd;C:\Program Files\nodejs\;C:\Users\chcol\.cargo\bin;C:\Users\chcol\AppData\Local\Programs\Python\Launcher\;C:\Users\chcol\AppData\Local\Microsoft\WindowsApps;C:\Softwares\Oracle\instantclient_23_9;C:\Softwares\Microsoft VS Code\Microsoft VS Code\bin;C:\Users\chcol\.dotnet\tools;C:\Users\chcol\AppData\Local\Programs\Ollama;C:\Softwares\WindSurf\Windsurf\bin;C:\Users\chcol\AppData\Roaming\npm;C:\Softwares\Antigravity\bin;C:\Users\chcol\.rustup\toolchains\stable-x86_64-pc-windows-msvc\bin)
+cargo:rerun-if-env-changed=INCLUDE
+INCLUDE = None
+cargo:rerun-if-env-changed=ARFLAGS
+ARFLAGS = None
+cargo:rerun-if-env-changed=HOST_ARFLAGS
+HOST_ARFLAGS = None
+cargo:rerun-if-env-changed=ARFLAGS_x86_64_pc_windows_msvc
+ARFLAGS_x86_64_pc_windows_msvc = None
+cargo:rerun-if-env-changed=ARFLAGS_x86_64-pc-windows-msvc
+ARFLAGS_x86_64-pc-windows-msvc = None
+cargo:rerun-if-env-changed=VCINSTALLDIR
+VCINSTALLDIR = None
+cargo:rerun-if-env-changed=VSTEL_MSBuildProjectFullPath
+VSTEL_MSBuildProjectFullPath = None
+cargo:rerun-if-env-changed=VCToolsVersion
+VCToolsVersion = None
+cargo:rerun-if-env-changed=VSCMD_ARG_VCVARS_SPECTRE
+VSCMD_ARG_VCVARS_SPECTRE = None
+cargo:rerun-if-env-changed=WindowsSdkDir
+WindowsSdkDir = None
+cargo:rerun-if-env-changed=WindowsSDKVersion
+WindowsSDKVersion = None
+cargo:rerun-if-env-changed=LIB
+LIB = None
+PATH = Some(C:\Startup\Projects\chat\rust\my-rust-app\target\release;C:\Startup\Projects\chat\rust\my-rust-app\target\release\deps;C:\Users\chcol\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib\rustlib\x86_64-pc-windows-msvc\lib;c:\Users\chcol\AppData\Roaming\Code\User\globalStorage\github.copilot-chat\debugCommand;c:\Users\chcol\AppData\Roaming\Code\User\globalStorage\github.copilot-chat\copilotCli;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\170\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Softwares\Git\Git\cmd;C:\Program Files\nodejs\;C:\Users\chcol\.cargo\bin;C:\Users\chcol\AppData\Local\Programs\Python\Launcher\;C:\Users\chcol\AppData\Local\Microsoft\WindowsApps;C:\Softwares\Oracle\instantclient_23_9;C:\Softwares\Microsoft VS Code\Microsoft VS Code\bin;C:\Users\chcol\.dotnet\tools;C:\Users\chcol\AppData\Local\Programs\Ollama;C:\Softwares\WindSurf\Windsurf\bin;C:\Users\chcol\AppData\Roaming\npm;C:\Softwares\Antigravity\bin;C:\Users\chcol\.rustup\toolchains\stable-x86_64-pc-windows-msvc\bin)
+cargo:rerun-if-env-changed=INCLUDE
+INCLUDE = None
+cargo:rerun-if-env-changed=VCToolsVersion
+VCToolsVersion = None
+cargo:rerun-if-env-changed=VSCMD_ARG_VCVARS_SPECTRE
+VSCMD_ARG_VCVARS_SPECTRE = None
+cargo:rerun-if-env-changed=WindowsSdkDir
+WindowsSdkDir = None
+cargo:rerun-if-env-changed=WindowsSDKVersion
+WindowsSDKVersion = None
+cargo:rerun-if-env-changed=LIB
+LIB = None
+PATH = Some(C:\Startup\Projects\chat\rust\my-rust-app\target\release;C:\Startup\Projects\chat\rust\my-rust-app\target\release\deps;C:\Users\chcol\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib\rustlib\x86_64-pc-windows-msvc\lib;c:\Users\chcol\AppData\Roaming\Code\User\globalStorage\github.copilot-chat\debugCommand;c:\Users\chcol\AppData\Roaming\Code\User\globalStorage\github.copilot-chat\copilotCli;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\170\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Softwares\Git\Git\cmd;C:\Program Files\nodejs\;C:\Users\chcol\.cargo\bin;C:\Users\chcol\AppData\Local\Programs\Python\Launcher\;C:\Users\chcol\AppData\Local\Microsoft\WindowsApps;C:\Softwares\Oracle\instantclient_23_9;C:\Softwares\Microsoft VS Code\Microsoft VS Code\bin;C:\Users\chcol\.dotnet\tools;C:\Users\chcol\AppData\Local\Programs\Ollama;C:\Softwares\WindSurf\Windsurf\bin;C:\Users\chcol\AppData\Roaming\npm;C:\Softwares\Antigravity\bin;C:\Users\chcol\.rustup\toolchains\stable-x86_64-pc-windows-msvc\bin)
+cargo:rerun-if-env-changed=INCLUDE
+INCLUDE = None
+cargo:rerun-if-env-changed=CC_x86_64-pc-windows-msvc
+CC_x86_64-pc-windows-msvc = None
+cargo:rerun-if-env-changed=CC_x86_64_pc_windows_msvc
+CC_x86_64_pc_windows_msvc = None
+cargo:rerun-if-env-changed=HOST_CC
+HOST_CC = None
+cargo:rerun-if-env-changed=CC
+CC = None
+cargo:rustc-link-search=native=C:\Softwares\Microsoft VS Code\VS 2026\VC\Tools\MSVC\14.50.35717\atlmfc\lib\x64
+cargo:rustc-link-lib=static=odpic
+cargo:rustc-link-search=native=C:\Startup\Projects\chat\rust\my-rust-app\target\release\build\odpic-sys-feb08f7cfbd471eb\out
